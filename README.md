@@ -55,13 +55,23 @@ footer{text-align:center;padding:25px;color:#777}
 <p id="message"></p>
 </section>
 
+<
 <section id="premium" class="card hidden">
-<h2>OutilMalin Premium</h2>
-<p>Découvre bientôt des fonctionnalités supplémentaires !</p>
-<h2>5,99 € / mois</h2>
-<p>Version de démonstration : aucun paiement réel n'est activé.</p>
+  <h2>OutilMalin Premium</h2>
+  <p>Débloque les fonctionnalités Premium d'OutilMalin !</p>
+  <h2>5,99 € / mois</h2>
+  <p>Profite de ton abonnement Premium.</p>
+
+  <a href="https://buy.stripe.com/test_7sY9AV7N03bN34X05ldZ600"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="display:inline-block;background:#5268e8;color:white;padding:14px 22px;border-radius:10px;text-decoration:none;font-weight:bold;">
+    Passer à Premium
+  </a>
+
+  <p><small>Paiement en mode test.</small></p>
 </section>
-</main>
+
 
 <footer>© 2026 OutilMalin - Créé pour simplifier ton quotidien.</footer>
 
